@@ -640,3 +640,4 @@ private function loadAttachments(int $reclamationId): array
         ]);
     }
 }
+               
